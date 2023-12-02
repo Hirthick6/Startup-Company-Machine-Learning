@@ -34,10 +34,13 @@ This app is up and running on Streamlit cloud server!!! Thanks 'Streamlit' for t
 ![demo](
 https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmRjbWJ0ZWJnb2R2MWl5cWpkeWVpdnJjdW80a2N6d3M4dDdxNWc3aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SsrxpmCAbUPDzrM236/giphy.gif)
 
-
 ## Requirements
 Python 3.9.13
 Streamlit
+Machine Learning
+Pandas
+Numpy
+Scikit-learn
 
 ## How to Run
 * Clone the repository
